@@ -1,0 +1,256 @@
+origin,arrivalActual,flight,arrivalScheduled,equipment,status,airline,gate
+,,,,,,,
+,,,,,,,
+"
+,OTP, Bucharest",12:07 AM,"
+,RO 398",12:20 AM,73W,Landed,TAROM,T-1
+"
+,AMS, Amsterdam",6:11 AM,"
+,EI 602",6:00 AM,320,Landed,Aer Lingus,T-2
+"
+,AMS, Amsterdam",6:11 AM,"
+,KL 3152",6:00 AM,320,Landed,KLM,T-2
+"
+,FRA, Frankfurt",6:05 AM,"
+,LH 983",6:00 AM,32A,Landed,Lufthansa,T-1
+"
+,FRA, Frankfurt",6:05 AM,"
+,LO 4750",6:00 AM,32A,Landed,LOT - Polish Airlines,T-1
+,,,,,,,
+,,,,,,,
+"
+,CDG, Paris",7:05 AM,"
+,EI 520",7:00 AM,320,Landed,Aer Lingus,T-2
+"
+,DUS, Dusseldorf",6:58 AM,"
+,EI 692",7:00 AM,320,Landed,Aer Lingus,T-2
+"
+,FRA, Frankfurt",6:54 AM,"
+,EI 650",7:00 AM,320,Landed,Aer Lingus,T-2
+"
+,FCO, Rome",6:56 AM,"
+,EI 402",7:00 AM,320,Landed,Aer Lingus,T-2
+,,,,,,,
+,,,,,,,
+"
+,AMS, Amsterdam",6:11 AM,"
+,EI 602",6:00 AM,320,Landed,Aer Lingus,T-2
+"
+,AMS, Amsterdam",6:11 AM,"
+,KL 3152",6:00 AM,320,Landed,KLM,T-2
+"
+,FRA, Frankfurt",6:05 AM,"
+,LH 983",6:00 AM,32A,Landed,Lufthansa,T-1
+"
+,FUE, Puerto del Rosario",7:04 AM,"
+,FR 7128",7:00 AM,,Landed,Ryanair,
+"
+,LHR, London",7:09 AM,"
+,BA 831",7:10 AM,319,Landed,British Airways,T-1
+"
+,LHR, London",7:09 AM,"
+,AA 6765",7:10 AM,319,Landed,American Airlines,T-1
+"
+,LGW, London",7:15 AM,"
+,EI 230",7:10 AM,320,Landed,Aer Lingus,T-2
+"
+,LGW, London",7:15 AM,"
+,BA 5900",7:10 AM,320,Landed,British Airways,T-2
+"
+,FRA, Frankfurt",6:05 AM,"
+,LO 4750",6:00 AM,32A,Landed,LOT - Polish Airlines,T-1
+"
+,CDG, Paris",6:31 AM,"
+,WX 1579",6:25 AM,AR8,En Route,Cityjet,T-1
+"
+,CDG, Paris",6:31 AM,"
+,AF 1579",6:25 AM,AR8,En Route,Air France,T-1
+"
+,CDG, Paris",6:31 AM,"
+,AZ 3575",6:25 AM,AR8,En Route,Alitalia,T-1
+"
+,CDG, Paris",6:31 AM,"
+,SV 6094",6:25 AM,AR8,En Route,Saudia,T-1
+"
+,MUC, Munich",7:10 AM,"
+,EI 352",7:10 AM,320,En Route,Aer Lingus,T-2
+"
+,RIX, Riga",7:16 AM,"
+,FR 1976",7:10 AM,,Landed,Ryanair,
+"
+,CDG, Paris",6:31 AM,"
+,SU 3105",6:25 AM,AR8,En Route,Aeroflot,T-1
+"
+,CDG, Paris",6:31 AM,"
+,DL 8678",6:25 AM,AR8,En Route,Delta Air Lines,T-1
+"
+,TFS, Tenerife",6:32 AM,"
+,FR 7122",6:25 AM,,Landed,Ryanair,
+"
+,SEN, Southend",7:15 AM,"
+,RE 3300",7:15 AM,AT4,Landed,Aer Arann Regional,T-2
+"
+,SEN, Southend",7:15 AM,"
+,EI 3300",7:15 AM,AT4,Landed,Aer Lingus,T-2
+"
+,STN, London",6:26 AM,"
+,FR 202",6:25 AM,,Landed,Ryanair,
+"
+,EDI, Edinburgh",6:20 AM,"
+,FR 812",6:25 AM,,Landed,Ryanair,
+"
+,ABZ, Aberdeen",7:20 AM,"
+,RE 3240",7:20 AM,AT7,Landed,Aer Arann Regional,T-2
+"
+,ABZ, Aberdeen",7:20 AM,"
+,EI 3240",7:20 AM,AT7,Landed,Aer Lingus,T-2
+"
+,ARN, Stockholm",7:25 AM,"
+,EI 620",7:20 AM,320,Landed,Aer Lingus,T-2
+"
+,BGY, Milan",6:28 AM,"
+,FR 9426",6:25 AM,,Landed,Ryanair,
+"
+,MAN, Manchester",6:34 AM,"
+,FR 552",6:30 AM,,Landed,Ryanair,
+"
+,ARN, Stockholm",7:25 AM,"
+,EY 7786",7:20 AM,320,Landed,Etihad Airways,T-2
+"
+,WAW, Warsaw",7:27 AM,"
+,EI 362",7:20 AM,320,Landed,Aer Lingus,T-2
+"
+,LCY, London",7:25 AM,"
+,WX 5118",7:25 AM,AR8,Landed,Cityjet,T-1
+"
+,LCY, London",7:25 AM,"
+,AF 5118",7:25 AM,AR8,Landed,Air France,T-1
+"
+,LCY, London",7:25 AM,"
+,AZ 2537",7:25 AM,AR8,Landed,Alitalia,T-1
+"
+,BHX, Birmingham",6:33 AM,"
+,FR 662",6:30 AM,,Landed,Ryanair,
+"
+,MAD, Madrid",6:26 AM,"
+,EI 592",6:30 AM,320,Landed,Aer Lingus,T-2
+"
+,MAN, Manchester",6:30 AM,"
+,EI 202",6:30 AM,320,Landed,Aer Lingus,T-2
+"
+,MAN, Manchester",6:30 AM,"
+,EY 7980",6:30 AM,320,Landed,Etihad Airways,T-2
+"
+,AGP, Malaga",7:36 AM,"
+,EI 582",7:30 AM,320,Landed,Aer Lingus,T-2
+"
+,LIN, Milan",7:35 AM,"
+,EI 432",7:30 AM,320,Landed,Aer Lingus,T-2
+"
+,SXF, Berlin",7:30 AM,"
+,EI 330",7:30 AM,320,Landed,Aer Lingus,T-2
+"
+,BTS, Bratislava",6:35 AM,"
+,FR 4282",6:35 AM,,Landed,Ryanair,
+"
+,EDI, Edinburgh",6:38 AM,"
+,RE 3250",6:40 AM,AT7,Landed,Aer Arann Regional,T-2
+"
+,LHR, London",7:37 AM,"
+,EI 154",7:40 AM,320,Landed,Aer Lingus,T-2
+"
+,LHR, London",7:37 AM,"
+,BA 5954",7:40 AM,320,Landed,British Airways,T-2
+"
+,LHR, London",7:37 AM,"
+,AC 6904",7:40 AM,320,Landed,Air Canada,T-2
+"
+,LHR, London",7:37 AM,"
+,EY 7900",7:40 AM,320,Landed,Etihad Airways,T-2
+"
+,EDI, Edinburgh",6:38 AM,"
+,EI 3250",6:40 AM,AT7,Landed,Aer Lingus,T-2
+"
+,BCN, Barcelona",6:59 AM,"
+,EI 562",6:40 AM,320,Landed,Aer Lingus,T-2
+"
+,BHX, Birmingham",6:43 AM,"
+,EI 262",6:40 AM,320,Landed,Aer Lingus,T-2
+"
+,BVA, Paris",6:47 AM,"
+,FR 24",6:40 AM,,Landed,Ryanair,
+"
+,LPL, Liverpool",8:04 AM,"
+,FR 448",7:45 AM,,Landed,Ryanair,
+"
+,LGW, London",7:43 AM,"
+,FR 112",7:45 AM,,Landed,Ryanair,
+"
+,CRL, Brussels",7:52 AM,"
+,FR 42",7:55 AM,,En Route,Ryanair,
+"
+,LHR, London",6:40 AM,"
+,EI 152",6:40 AM,320,Landed,Aer Lingus,T-2
+"
+,LHR, London",6:40 AM,"
+,EY 7892",6:40 AM,320,Landed,Etihad Airways,T-2
+"
+,BRS, Bristol",8:10 AM,"
+,FR 502",8:00 AM,,Landed,Ryanair,
+"
+,EMA, Leicestershire",8:09 AM,"
+,FR 534",8:05 AM,,Landed,Ryanair,
+"
+,LHR, London",6:40 AM,"
+,BA 5952",6:40 AM,320,Landed,British Airways,T-2
+"
+,LHR, London",6:40 AM,"
+,UA 7652",6:40 AM,320,Landed,United Airlines,T-2
+"
+,LCY, London",6:46 AM,"
+,WX 5116",6:45 AM,AR8,Landed,Cityjet,T-1
+"
+,LCY, London",6:46 AM,"
+,AF 5116",6:45 AM,AR8,Landed,Air France,T-1
+"
+,LCY, London",6:46 AM,"
+,AZ 2515",6:45 AM,AR8,Landed,Alitalia,T-1
+"
+,BRU, Brussels",6:50 AM,"
+,EI 630",6:50 AM,320,Landed,Aer Lingus,T-2
+"
+,BRS, Bristol",6:44 AM,"
+,RE 3280",6:50 AM,AT4,Landed,Aer Arann Regional,T-2
+"
+,BRS, Bristol",6:44 AM,"
+,EI 3280",6:50 AM,AT4,Landed,Aer Lingus,T-2
+"
+,GVA, Geneva",6:59 AM,"
+,EI 680",6:50 AM,320,Landed,Aer Lingus,T-2
+"
+,GLA, Glasgow",6:45 AM,"
+,RE 3220",6:50 AM,AT7,Landed,Aer Arann Regional,T-2
+"
+,GLA, Glasgow",6:45 AM,"
+,EI 3220",6:50 AM,AT7,Landed,Aer Lingus,T-2
+"
+,NCL, Newcastle",6:50 AM,"
+,RE 3350",6:50 AM,AT7,Landed,Aer Arann Regional,T-2
+"
+,NCL, Newcastle",6:50 AM,"
+,EI 3350",6:50 AM,AT7,Landed,Aer Lingus,T-2
+"
+,CDG, Paris",7:05 AM,"
+,EI 520",7:00 AM,320,Landed,Aer Lingus,T-2
+"
+,DUS, Dusseldorf",6:58 AM,"
+,EI 692",7:00 AM,320,Landed,Aer Lingus,T-2
+"
+,FRA, Frankfurt",6:54 AM,"
+,EI 650",7:00 AM,320,Landed,Aer Lingus,T-2
+"
+,FCO, Rome",6:56 AM,"
+,EI 402",7:00 AM,320,Landed,Aer Lingus,T-2
+"
+,FUE, Puerto del Rosario",7:04 AM,"
+,FR 7128",7:00 AM,,Landed,Ryanair,
