@@ -7,6 +7,7 @@
 #
 
 BOT_NAME = 'eidw'
+LOG_ENABLED = False
 
 SPIDER_MODULES = ['eidw.spiders']
 NEWSPIDER_MODULE = 'eidw.spiders'

@@ -9,28 +9,23 @@ class ArrivalsSpider(BaseSpider):
 	allowed_domains = ["http://www.flightstats.com"]
 	start_urls = ["http://www.flightstats.com/go/FlightStatus/flightStatusByAirport.do?airportCode=DUB&airportQueryTime=0", 
 	"http://www.flightstats.com/go/FlightStatus/flightStatusByAirport.do?airportCode=DUB&airportQueryTime=6",
-	"http://www.flightstats.com/go/FlightStatus/flightStatusByAirport.do?airportCode=DUB&airportQueryTime=7"]
-	
-	db = MySQLdb.connect("localhost","user","pass","test", charset="utf8", use_unicode=True )
-	cursor = db.cursor()
-
-	cursor.execute("DROP TABLE IF EXISTS FLIGHTS")
-
-	sql = """CREATE TABLE FLIGHTS (
-			id INT NOT NULL AUTO_INCREMENT,
-			scrape_time TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
-			PRIMARY KEY(id),
-			 ORIGIN  VARCHAR(50) ,
-			 FLIGHT_NUMBER  VARCHAR(50) ,
-			 AIRLINE VARCHAR(50) ,  
-			 ARRIVAL_SCHEDULED VARCHAR(50) ,
-			 ARRIVAL_ACTUAL VARCHAR(50) ,
-			 GATE VARCHAR(50) ,
-			 STATUS VARCHAR(50) ,
-			 EQUIPMENT VARCHAR(50) )"""
-
-	cursor.execute(sql)
-	db.close()
+	"http://www.flightstats.com/go/FlightStatus/flightStatusByAirport.do?airportCode=DUB&airportQueryTime=7",
+	"http://www.flightstats.com/go/FlightStatus/flightStatusByAirport.do?airportCode=DUB&airportQueryTime=8",
+	"http://www.flightstats.com/go/FlightStatus/flightStatusByAirport.do?airportCode=DUB&airportQueryTime=9",
+	"http://www.flightstats.com/go/FlightStatus/flightStatusByAirport.do?airportCode=DUB&airportQueryTime=10",
+	"http://www.flightstats.com/go/FlightStatus/flightStatusByAirport.do?airportCode=DUB&airportQueryTime=11",
+	"http://www.flightstats.com/go/FlightStatus/flightStatusByAirport.do?airportCode=DUB&airportQueryTime=12",
+	"http://www.flightstats.com/go/FlightStatus/flightStatusByAirport.do?airportCode=DUB&airportQueryTime=13",
+	"http://www.flightstats.com/go/FlightStatus/flightStatusByAirport.do?airportCode=DUB&airportQueryTime=14",
+	"http://www.flightstats.com/go/FlightStatus/flightStatusByAirport.do?airportCode=DUB&airportQueryTime=15",
+	"http://www.flightstats.com/go/FlightStatus/flightStatusByAirport.do?airportCode=DUB&airportQueryTime=16",
+	"http://www.flightstats.com/go/FlightStatus/flightStatusByAirport.do?airportCode=DUB&airportQueryTime=17",
+	"http://www.flightstats.com/go/FlightStatus/flightStatusByAirport.do?airportCode=DUB&airportQueryTime=18",
+	"http://www.flightstats.com/go/FlightStatus/flightStatusByAirport.do?airportCode=DUB&airportQueryTime=19",
+	"http://www.flightstats.com/go/FlightStatus/flightStatusByAirport.do?airportCode=DUB&airportQueryTime=20",
+	"http://www.flightstats.com/go/FlightStatus/flightStatusByAirport.do?airportCode=DUB&airportQueryTime=21",
+	"http://www.flightstats.com/go/FlightStatus/flightStatusByAirport.do?airportCode=DUB&airportQueryTime=22",
+	"http://www.flightstats.com/go/FlightStatus/flightStatusByAirport.do?airportCode=DUB&airportQueryTime=23"]
 	
 	def parse(self, response):
 		unicode(response.body.decode(response.encoding)).encode('utf-8')
